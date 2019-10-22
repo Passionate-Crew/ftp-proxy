@@ -1,0 +1,11 @@
+ftp.jussieu.fr
+
+contient une quantité de logiciels telle qu'il est illusoire de tous les détailler ici.
+En vrac, on y trouve plusieurs distributions à jour de Linux, de nombreux utilitaires Unix libres, des distributions
+de TeX et LaTeX (installables sous Windows ou Macintosh), etc... Nombre de logiciels installés chez gourous viennent de ce site.
+
+ftp.funet.fi
+
+contient de nombreux miroirs d'autres sites (c'est-à-dire qu'il recopie régulièrement d'autres sites
+pour que leur contenu soit plus facilement accessible), ce qui le rend très utile pour les utilisateurs européens
+(ce site est en Finlande) pour qui les connexions avec les sites américains est lente.
